@@ -43,6 +43,7 @@ form{
    font-weight: 300;
    font-size: 18px;
    border-radius: 20px 20px 0 20px;
+   outline-color: #fff;
 }
 .elements textarea{
     background-color: #0f172a;
@@ -53,7 +54,7 @@ form{
     padding: 10px;
     font-size: 16px;
     font-weight: 200;
-    outline-color: #1c7ae1;
+    outline-color: #fff;
 }
 .elements button{
     background-color: #334155;
